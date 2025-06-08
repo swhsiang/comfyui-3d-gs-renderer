@@ -1,0 +1,15 @@
+[project]
+name = "3d-gs-renderer"
+description = "3D GS Renderer for ComfyUI. Built on top of https://github.com/forge-gfx/forge."
+version = "0.0.1"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/swhsiang/comfyui-3d-gs-renderer"
+#  Used by Comfy Registry https://registry.comfy.org
+
+[tool.comfy]
+PublisherId = "swhsiang"
+DisplayName = "comfyui-3d-gs-renderer"
+Icon = ""
+includes = []
