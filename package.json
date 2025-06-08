@@ -1,0 +1,19 @@
+{
+  "name": "comfyui-3d-gs-renderer",
+  "version": "0.0.1",
+  "description": "ComfyUI custom node frontend for 3D GS rendering, using Forge.",
+  "author": "swhsiang <swh@hsiang.io>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "forge": "^0.0.22"
+  }
+}
